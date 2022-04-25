@@ -15,7 +15,7 @@ To install this package you will need:
 
 Use composer to install
 ```bash
-composer require khgar/oidconnect-laravel:dev-master
+composer require furdarius/oidconnect-laravel:dev-master
 ```
 
 Open `config/app.php` and register the required service providers above your application providers.
